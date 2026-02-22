@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App Info -->
-    <string name="app_name">Finance Tracker</string>
+    <string name="app_name">WealthWise</string>
 
     <!-- Navigation & Labels -->
     <string name="home">Home</string>
